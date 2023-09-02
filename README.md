@@ -89,7 +89,7 @@
 <div align="center">
 <a href="https://github.com/Farid-Adwani">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wadhah101&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wadhah101&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farid-Adwani&theme=default" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farid-Adwani&theme=default" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farid-Adwani&theme=default" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farid-Adwani&theme=default" height="180em" />
