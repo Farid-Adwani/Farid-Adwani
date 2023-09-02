@@ -12,7 +12,6 @@
 <a href="https://github.com/Farid-Adwani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:faridadwani@insat.ucar.tn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href = "https://linkedin.com/in/https://www.linkedin.com/in/farid-adwani-0047911bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/farid-adwani-0047911bb/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a href = "https://www.facebook.com/profile.php?id=100010601919084"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
@@ -77,12 +76,13 @@
 
 <h3 align="left">Stars</h3>
 
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid-Adwani&layout=compact&theme=default" alt=Farid-Adwani />
+
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Farid-Adwani&show_icons=true&locale=en&theme=default" alt="Farid-Adwani" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farid-Adwani&theme=default" alt="Farid-Adwani" /></p>
+<center><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farid-Adwani&theme=default" alt="Farid-Adwani" /></p></center>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid-Adwani&layout=compact&theme=default" alt=Farid-Adwani />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
