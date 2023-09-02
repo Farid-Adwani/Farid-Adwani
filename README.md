@@ -79,7 +79,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid-Adwani&layout=compact&theme=default" alt=Farid-Adwani />
 
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wadhah101&show_icons=true&locale=en&theme=default" alt="Farid-Adwani" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Farid-Adwani&show_icons=true&locale=en&theme=default" alt="Farid-Adwani" /></p>
 
 <center><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wadhah101&theme=default" alt="Farid-Adwani" /></p></center>
 
