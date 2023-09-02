@@ -76,21 +76,21 @@
 
 <h3 align="left">Stars</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid-Adwani&layout=compact&theme=default" alt=Farid-Adwani />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadhah101&layout=compact&theme=default" alt=Farid-Adwani />
 
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Farid-Adwani&show_icons=true&locale=en&theme=default" alt="Farid-Adwani" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wadhah101&show_icons=true&locale=en&theme=default" alt="Farid-Adwani" /></p>
 
-<center><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farid-Adwani&theme=default" alt="Farid-Adwani" /></p></center>
+<center><p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wadhah101&theme=default" alt="Farid-Adwani" /></p></center>
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Farid-Adwani">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Farid-Adwani&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Farid-Adwani&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farid-Adwani&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Farid-Adwani&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Farid-Adwani&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wadhah101&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wadhah101&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wadhah101&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wadhah101&theme=default" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wadhah101&theme=default" height="180em" />
 </div>
