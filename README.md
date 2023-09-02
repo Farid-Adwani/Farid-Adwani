@@ -3,7 +3,7 @@
 <h3 align="center">I'm an enthusiast Software Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Farid-Adwani&label=Profile%20views&color=0e75b6&style=flat" alt="Farid-Adwani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Farid-Adwani&theme=" alt="Farid-Adwani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wadhah101&theme=" alt="Farid-Adwani" /></a> </p>
 
 
 - 📫 How to reach me :
